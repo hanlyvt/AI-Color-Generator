@@ -83,14 +83,14 @@ python api.py
 **Output:**
 
 ```
-🚀 Loading AI Color Generator Model...
+ Loading AI Color Generator Model...
 ✓ Using trained model: ./trained_models/color_model_YYYYMMDD_HHMMSS
 ✓ Model dimension: 384D
 ✓ Loaded embeddings: (100000, 384)
 ✓ Loaded 100000 colors
 ✓ Dimensions match: 384D
 
-🎨 API Ready! Visit http://localhost:8000/docs
+ API Ready! Visit http://localhost:8000/docs
 
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
 ```
