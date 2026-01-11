@@ -1,7 +1,4 @@
-# Large data files
-AI Project/ai-color-model/data/*.csv
-AI Project/ai-color-model/embeddings/*.npy
-AI Project/ai-color-model/trained_models/
+
 
 # Node modules (altijd excluden!)
 AI Project/color-generator-app/node_modules/
